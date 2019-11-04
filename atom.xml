@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>快乐时光</title>
+  
+  <subtitle>简单快乐</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://findhappytime.github.io/"/>
+  <updated>2019-11-04T11:54:41.459Z</updated>
+  <id>https://findhappytime.github.io/</id>
+  
+  <author>
+    <name>Zhang Shu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017-08-15-大型网站技术架构-核心原理与案例分析(阅读笔记)</title>
+    <link href="https://findhappytime.github.io/2019/11/04/2017-08-15-da-xing-wang-zhan-ji-zhu-jia-gou-he-xin-yuan-li-yu-an-li-fen-xi-yue-du-bi-ji/"/>
+    <id>https://findhappytime.github.io/2019/11/04/2017-08-15-da-xing-wang-zhan-ji-zhu-jia-gou-he-xin-yuan-li-yu-an-li-fen-xi-yue-du-bi-ji/</id>
+    <published>2019-11-04T11:54:41.459Z</published>
+    <updated>2019-11-04T11:54:41.459Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;p&gt;title:  大型网站技术架构-核心原理与案例分析&lt;br&gt;date: 2017-08-15 19:00:00&lt;br&gt;author: 张曙&lt;/p&gt;
+&lt;h1 id=&quot;img-source-images-xxx-jpg&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写给妻子</title>
+    <link href="https://findhappytime.github.io/2019/11/04/2019-11-04-xie-gei-qi-zi/"/>
+    <id>https://findhappytime.github.io/2019/11/04/2019-11-04-xie-gei-qi-zi/</id>
+    <published>2019-11-04T11:08:00.000Z</published>
+    <updated>2019-11-04T11:52:59.385Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;遇见你，是我这辈子最大的惊喜。和你相知相守，是我此生最大幸福&lt;/p&gt;
+&lt;p&gt;清风轻轻的拂过了我的耳畔，在岁月的深处我用柔情续写了诗韵留香。一场风花雪月的浪漫，一段唯美的誓言，你陪着我走了很久很久，你陪着我走了很远很远。在浮世沧桑中，你我相遇相知相恋，时光流逝，见证着你我执子
+        
+      
+    
+    </summary>
+    
+    
+      <category term="家书" scheme="https://findhappytime.github.io/categories/%E5%AE%B6%E4%B9%A6/"/>
+    
+    
+      <category term="家书" scheme="https://findhappytime.github.io/tags/%E5%AE%B6%E4%B9%A6/"/>
+    
+      <category term="心灵" scheme="https://findhappytime.github.io/tags/%E5%BF%83%E7%81%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>简析Storm-Spark-Flink及如何保证不丢数据</title>
+    <link href="https://findhappytime.github.io/2018/08/10/2018-08-10-jian-xi-storm-spark-flink-ji-ru-he-bao-zheng-bu-diu-shu-ju/"/>
+    <id>https://findhappytime.github.io/2018/08/10/2018-08-10-jian-xi-storm-spark-flink-ji-ru-he-bao-zheng-bu-diu-shu-ju/</id>
+    <published>2018-08-10T11:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.451Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;简析Storm-Spark-Flink及如何保证不丢数据&quot;&gt;&lt;a href=&quot;#简析Storm-Spark-Flink及如何保证不丢数据&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="https://findhappytime.github.io/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="原创" scheme="https://findhappytime.github.io/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>根本原因分析</title>
+    <link href="https://findhappytime.github.io/2018/05/22/09-fang-fa-lun/01-gong-zuo-fang-fa/2018-05-22-gen-ben-yuan-yin-fen-xi/"/>
+    <id>https://findhappytime.github.io/2018/05/22/09-fang-fa-lun/01-gong-zuo-fang-fa/2018-05-22-gen-ben-yuan-yin-fen-xi/</id>
+    <published>2018-05-22T11:19:00.000Z</published>
+    <updated>2019-11-04T11:54:41.461Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-根本原因分析-概念&quot;&gt;&lt;a href=&quot;#1-根本原因分析-概念&quot; class=&quot;headerlink&quot; title=&quot;1.根本原因分析-概念&quot;&gt;&lt;/a&gt;1.根本原因分析-概念&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;根本原因分析(Root Cause
+        
+      
+    
+    </summary>
+    
+    
+      <category term="方法论" scheme="https://findhappytime.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+    
+      <category term="摘录" scheme="https://findhappytime.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目开发流程标准</title>
+    <link href="https://findhappytime.github.io/2018/05/15/03-xiang-mu-guan-li/2018-05-15-xiang-mu-kai-fa-liu-cheng-biao-zhun/"/>
+    <id>https://findhappytime.github.io/2018/05/15/03-xiang-mu-guan-li/2018-05-15-xiang-mu-kai-fa-liu-cheng-biao-zhun/</id>
+    <published>2018-05-15T07:08:00.000Z</published>
+    <updated>2019-11-04T11:54:41.453Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;0-1-需求评审前-下发需求&quot;&gt;&lt;a href=&quot;#0-1-需求评审前-下发需求&quot; class=&quot;headerlink&quot; title=&quot;0.1. 需求评审前,下发需求.&quot;&gt;&lt;/a&gt;0.1. 需求评审前,下发需求.&lt;/h2&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="项目管理" scheme="https://findhappytime.github.io/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86/"/>
+    
+    
+      <category term="流程" scheme="https://findhappytime.github.io/tags/%E6%B5%81%E7%A8%8B/"/>
+    
+      <category term="项目" scheme="https://findhappytime.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+      <category term="标准" scheme="https://findhappytime.github.io/tags/%E6%A0%87%E5%87%86/"/>
+    
+      <category term="管理" scheme="https://findhappytime.github.io/tags/%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何写技术博客</title>
+    <link href="https://findhappytime.github.io/2018/04/28/09-fang-fa-lun/2018-04-28-ru-he-xie-ji-zhu-bo-ke/"/>
+    <id>https://findhappytime.github.io/2018/04/28/09-fang-fa-lun/2018-04-28-ru-he-xie-ji-zhu-bo-ke/</id>
+    <published>2018-04-28T10:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.448Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何写技术博客&quot;&gt;&lt;a href=&quot;#如何写技术博客&quot; class=&quot;headerlink&quot; title=&quot;如何写技术博客&quot;&gt;&lt;/a&gt;如何写技术博客&lt;/h1&gt;&lt;p&gt; 作者: 刘江&lt;/p&gt;
+&lt;p&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="https://findhappytime.github.io/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="摘录" scheme="https://findhappytime.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何给博客文章分类</title>
+    <link href="https://findhappytime.github.io/2018/04/28/09-fang-fa-lun/2018-04-28-ru-he-gei-bo-ke-wen-zhang-fen-lei/"/>
+    <id>https://findhappytime.github.io/2018/04/28/09-fang-fa-lun/2018-04-28-ru-he-gei-bo-ke-wen-zhang-fen-lei/</id>
+    <published>2018-04-28T09:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.455Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;如何给博客文章分类&quot;&gt;&lt;a href=&quot;#如何给博客文章分类&quot; class=&quot;headerlink&quot; title=&quot;如何给博客文章分类&quot;&gt;&lt;/a&gt;如何给博客文章分类&lt;/h1&gt;&lt;h2 id=&quot;按照-内容-分类&quot;&gt;&lt;a href=&quot;#按照-内容-分类&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="理论" scheme="https://findhappytime.github.io/categories/%E7%90%86%E8%AE%BA/"/>
+    
+    
+      <category term="原创" scheme="https://findhappytime.github.io/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Better Java</title>
+    <link href="https://findhappytime.github.io/2017/09/06/2017-09-06-better-java/"/>
+    <id>https://findhappytime.github.io/2017/09/06/2017-09-06-better-java/</id>
+    <published>2017-09-06T11:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.466Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Better-Java&quot;&gt;&lt;a href=&quot;#Better-Java&quot; class=&quot;headerlink&quot; title=&quot;Better Java&quot;&gt;&lt;/a&gt;Better Java&lt;/h1&gt;&lt;p&gt;Java
+        
+      
+    
+    </summary>
+    
+    
+      <category term="书籍" scheme="https://findhappytime.github.io/categories/%E4%B9%A6%E7%B1%8D/"/>
+    
+    
+      <category term="笔记" scheme="https://findhappytime.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图解HTTP</title>
+    <link href="https://findhappytime.github.io/2017/08/15/2017-08-15-tu-jie-http-yue-du-bi-ji/"/>
+    <id>https://findhappytime.github.io/2017/08/15/2017-08-15-tu-jie-http-yue-du-bi-ji/</id>
+    <published>2017-08-15T11:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.463Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;图解HTTP&quot;&gt;&lt;a href=&quot;#图解HTTP&quot; class=&quot;headerlink&quot; title=&quot;图解HTTP&quot;&gt;&lt;/a&gt;图解HTTP&lt;/h1&gt;&lt;h2 id=&quot;HTTP方法&quot;&gt;&lt;a href=&quot;#HTTP方法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="阅读笔记" scheme="https://findhappytime.github.io/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="https://findhappytime.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发工具</title>
+    <link href="https://findhappytime.github.io/2017/08/10/2017-08-10-kai-fa-gong-ju/"/>
+    <id>https://findhappytime.github.io/2017/08/10/2017-08-10-kai-fa-gong-ju/</id>
+    <published>2017-08-10T11:00:00.000Z</published>
+    <updated>2019-11-04T11:54:41.457Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;开发辅助工具&quot;&gt;&lt;a href=&quot;#开发辅助工具&quot; class=&quot;headerlink&quot; title=&quot;开发辅助工具&quot;&gt;&lt;/a&gt;开发辅助工具&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在线接口文档+接口测试工具:   &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="开发工具" scheme="https://findhappytime.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="总结" scheme="https://findhappytime.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RESTful架构</title>
+    <link href="https://findhappytime.github.io/2017/08/03/2017-08-03-restful-jia-gou/"/>
+    <id>https://findhappytime.github.io/2017/08/03/2017-08-03-restful-jia-gou/</id>
+    <published>2017-08-03T10:30:00.000Z</published>
+    <updated>2019-11-04T11:54:41.468Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;RESTful架构&quot;&gt;&lt;a href=&quot;#RESTful架构&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="基础知识点" scheme="https://findhappytime.github.io/categories/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    
+    
+      <category term="摘录" scheme="https://findhappytime.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间管理方法论</title>
+    <link href="https://findhappytime.github.io/2017/08/02/09-fang-fa-lun/01-gong-zuo-fang-fa/2017-08-02-shi-jian-guan-li-fang-fa-lun/"/>
+    <id>https://findhappytime.github.io/2017/08/02/09-fang-fa-lun/01-gong-zuo-fang-fa/2017-08-02-shi-jian-guan-li-fang-fa-lun/</id>
+    <published>2017-08-02T11:19:00.000Z</published>
+    <updated>2019-11-04T11:54:41.470Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;时间管理&quot;&gt;&lt;a href=&quot;#时间管理&quot; class=&quot;headerlink&quot; title=&quot;时间管理&quot;&gt;&lt;/a&gt;时间管理&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;时间管理有很多种方法，而GTD（全称：Getting Things
+        
+      
+    
+    </summary>
+    
+    
+      <category term="方法论" scheme="https://findhappytime.github.io/categories/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+    
+      <category term="摘录" scheme="https://findhappytime.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+</feed>
